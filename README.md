@@ -1,9 +1,9 @@
-#Creación de una Página Web con Azure.
+#Creación de una Página web con Azure y WordPress.
 
 ![Logo de Azure](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/logo-azure.png) ![Logo de wordpress](https://github.com/EnriqueCocom/creacion-pagina-web1/blob/main/Imagenes/logo-wordpress.png)
 
 
-En este repositorio aprenderas a crear una Página Web con Azure y WordPress.
+En este repositorio aprenderas a crear una Página web con Azure y WordPress.
 
 **Requisitos**
 
